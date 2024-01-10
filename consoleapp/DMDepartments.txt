@@ -1,0 +1,8 @@
+﻿1;Executive;Michael Scott
+2;Sales;Dwight Schrute
+3;Receptionist;Pam Beesly
+4;Accounting;Angela Martin
+5;Special Projects;Nellie Bertram
+6;Customer Service;Kelly Kapoor
+7;Human Resources;Toby Flenderson
+8;Warehouse;Darryl Philbin

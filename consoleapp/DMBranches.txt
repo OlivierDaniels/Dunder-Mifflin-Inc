@@ -1,0 +1,10 @@
+﻿1;Akron;Jan Levinson;123 Main Street; Akron; OH; 44301
+2;Albany;Jason Williams;456 Pine Street; Albany; NY; 12201
+3;Camden;Alice Johnson;789 Oak Avenue; Camden; NJ; 08101
+4;Buffalo;David Wallace;987 Elm Lane; Buffalo; NY; 14201
+5;Binghamton;Eva Rodriguez;555 Birch Road; Binghamton; NY; 13901
+6;Yonkers;Brian Thompson;789 Willow Lane; Yonkers; NY; 10701
+7;Nashua;Hannah Smoterich-Barr;456 Walnut Street; Nashua; NH; 03060
+8;Utica;Karen Filippelli;230 Spruce Street; Utica; NY; 13501
+9;Scranton;Michael Scott;1725 Mulberry Street; Scranton; PA; 18504;
+10;Stamford;Josh Porter;789 Maple Street; Stamford; CT; 06901

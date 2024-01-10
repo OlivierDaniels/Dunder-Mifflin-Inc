@@ -1,0 +1,21 @@
+﻿1;Michael;Scott;15-May-1964;1725 Mulberry Street; Scranton; PA; 18504;1;Executive;Regional Manager
+2;Dwight;Schrute;20-Jan-1970;1265 Pine Street; Scranton; PA; 18503;2;Sales;Assistant to the Regional Manager
+3;Jim;Halpert;1-Oct-1978;452 Elm Street; Scranton; PA; 18505;3;Sales;Sales Representative
+4;Pam;Beesly;25-Mar-1979;230 Spruce Street; Scranton; PA; 18506;4;Receptionist;Head Receptionist
+5;Ryan;Howard;4-Jun-1980;360 Oak Street; Scranton; PA; 18507;5;Sales;Junior Salesman
+6;Andy;Bernard;22-Jul-1973;789 Maple Street; Scranton; PA; 18508;6;Executive;Regional Manager
+7;Angela;Martin;7-Nov-1971;555 Birch Street; Scranton; PA; 18509;7;Accounting;Head Accounting 
+8;Kevin;Malone;15-Jun-1978;789 Willow Street; Scranton; PA; 18510;8;Accounting;Accountant
+9;Oscar;Martinez;15-Nov-1978;987 Cedar Street; Scranton; PA; 18511;9;Accounting;Accountant
+10;Stanley;Hudson;19-Feb-1958;111 Pineapple Street; Scranton; PA; 18512;10;Sales;Sales Representative
+11;Meredith;Palmer;20-Jul-1962;456 Oakwood Street; Scranton; PA; 18513;11;Supplier Relations;Supplier Relations
+12;Phyllis;Vance;19-Jul-1959;789 Pine Street; Scranton; PA; 18514;12;Sales;Sales Representative
+13;Creed;Bratton;1-Nov-1943;123 Walnut Street; Scranton; PA; 18515;13;Quality Assurance;Quality Assurance Director
+14;Kelly;Kapoor;5-Feb-1980;456 Maple Avenue; Scranton; PA; 18516;14;Customer Service;Customer Service Representative
+15;Toby;Flenderson;22-Nov-1971;987 Oak Lane; Scranton; PA; 18517;15;Human Resources;Human Resources
+16;Erin;Hannon;4-Aug-1985;230 Spruce Street; Scranton; PA; 18518;16;Receptionist;Receptionist
+17;Darryl;Philbin;29-Mar-1972;789 Birch Road; Scranton; PA; 18519;17;Warehouse;Warehouse Manager
+18;Val;Johnson;10-Sep-1983;456 Willow Lane; Scranton; PA; 18520;18;Warehouse;Warehouse Worker
+19;Nellie;Bertram;17-Mar-1971;555 Pine Street; Scranton; PA; 18521;19;Special Projects;Special Projects Manager
+20;Gabe;Lewis;18-Jul-1979;789 Oak Lane; Scranton; PA; 18522;20;Coordinating;Coordinating Director
+21;Pete;Miller;3-Apr-1988;456 Willow Lane; Scranton; PA; 18523;21;Warehouse;Warehouse Worker
